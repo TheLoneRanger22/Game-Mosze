@@ -3,6 +3,7 @@ using namespace std;
 #define A "a"
 #define B "b"
 
+//Az első favágó kód....
 int main() {
   string answer,a,b;
   
