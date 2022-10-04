@@ -62,6 +62,7 @@ void OpenFile(string fileName)
 
 int main()
 {
+  //TODO: a dir pointer valamiért nem jó
   DIR *dir;
   beolvas(dir);
 
